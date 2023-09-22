@@ -1,0 +1,14 @@
+BANKIST APP 
+
+1. Log in (username: js, password: 1111) or (username: jd, password: 2222).
+2. Transfer money from one account to another using the username.
+3. Request loan which takes some time to be aproved.
+4. Delete account using the username and the password of the current user.
+5. Sort movements by date or amount.
+
+Features
+
+1. You can see the current date and time of the log in.
+2. You can see your current balance based on your movements.
+3. You will be logged out after two minutes if you stay inactive.
+4. You can see the total amounts of deposits and withdrawals.
